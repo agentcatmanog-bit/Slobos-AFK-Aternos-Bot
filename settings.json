@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Assistent",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Neighbor01",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "AntiToxicSMP.aternos.me",
-    "port": 55179,
-    "version": "1.21.11",
+    "ip": "HelloNeighborYay.aternos.me",
+    "port": 35920,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
